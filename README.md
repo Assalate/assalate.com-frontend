@@ -1,6 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <a href="https://quran.com">
+    <img src="public/logo.png" alt="Logo" width="160" height="160">
+  </a>
+  
   <h1 align="center">Assalate : Prayer Times in your calendar</h1>
   
   <p align="center">
