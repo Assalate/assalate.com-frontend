@@ -10,7 +10,7 @@
   <p align="center">
     The official source code repository for Assalate.com
     <br />
-    <a href=""><strong>Join Assalate.com community »</strong></a>
+    <a href="https://discord.gg/nUuNs7Y2fW"><strong>Join Assalate.com community »</strong></a>
     <br />
     <br />
     <a href="https://assalate.com">Visit Assalate.com</a>
